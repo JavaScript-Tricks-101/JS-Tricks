@@ -5,3 +5,4 @@ const myButton = document.getElementById('myButton');
 myButton.addEventListener('click', function() {
   alert('Button Clicked! 🌟');
 });
+//THis is dom example
