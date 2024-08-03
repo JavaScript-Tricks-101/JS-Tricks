@@ -1,7 +1,12 @@
 // Declare variables
 let name = 'John';
 let age = 30;
-let dob = 'march';
+let dob = {
+  day: 6,
+  month: 'march',
+  year:2002,
+}
+
 
 // Use operators
 let result = age + 5; // result = 35
